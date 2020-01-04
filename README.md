@@ -1,4 +1,4 @@
 # DiscRecurrentSPN
 @author: Haonan Duan
 
-This is a discriminative training algorithm of recurrent SPN using extended Baum-Welch algorithms
+This is a system to train recurrent SPNs discriminitively using extended Baum-Welch algorithms
